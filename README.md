@@ -2,7 +2,7 @@
 
 ### Usage 
 
-    ```bash
+    ```
 
      Usage: ./bc.sh [-h] [-c <container_name>] [-u <username>] [-p <password>] [-d <database_name>] [-o <output_file>]
      Options:
